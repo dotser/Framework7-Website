@@ -1,5 +1,5 @@
-Framework7-Website
-==================
-Framework7's website to use these docs offline
+Framework7-Website-FR
+=====================
+Le site Web de Framework 7 pour une utilisation hors ligne
 
-http://www.idangero.us/framework7/
+http://guillaumebiton.github.io/Framework7-Website-FR/
